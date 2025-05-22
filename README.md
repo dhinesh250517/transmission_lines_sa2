@@ -1,5 +1,10 @@
 # Operation Lifeline: Restoring Communication Amidst Disasters
 
+![image](https://github.com/user-attachments/assets/00607c7f-9a70-42b3-a502-a949fd4a671f)
+
+
+
+
 ## 1. Introduction
 In the wake of natural calamities like the 2024 Sikkim Earthquake and the 2023 Chennai Floods, communication infrastructures often collapse, leaving affected regions isolated. Rapid restoration of communication is paramount for coordinating rescue operations, disseminating information, and ensuring public safety. This report delves into the deployment of Satellite Uplink Systems, Low VSWR Antennas, Mesh Networks, and Software Defined Radios (SDRs) in re-establishing communication during such crises.
 
@@ -40,7 +45,8 @@ During the Sikkim earthquake, portable satellite terminals were deployed to esta
 ### 3.2. Low VSWR Antennas
 A low Voltage Standing Wave Ratio (VSWR) indicates efficient power transmission with minimal reflections, crucial for reliable communication.
 
-![image](https://github.com/user-attachments/assets/bb852585-3350-4b86-bc68-be1477330571)
+![image](https://github.com/user-attachments/assets/804e46a8-954e-4c23-8899-1b1762b71210)
+
 
 
 ### Formula:
