@@ -17,7 +17,11 @@ Response: Deployment of portable satellite terminals and mesh networks by disast
 
 ## 3. Technical Concepts and Real-Time Applications
 ### 3.1. Satellite Uplink Systems
+
 Satellite uplink systems provide a direct communication link between ground stations and satellites, bypassing terrestrial infrastructure.
+
+![image](https://github.com/user-attachments/assets/f1f46b83-da4f-45e9-9007-aafc0b485bcf)
+
 
 #### Formula:
 ![image](https://github.com/user-attachments/assets/096e5493-6b61-4721-bd39-92a8f1a92fd1)
@@ -29,9 +33,15 @@ Satellite uplink systems provide a direct communication link between ground stat
 ## Real-Time Application:
 During the Sikkim earthquake, portable satellite terminals were deployed to establish communication links with central command centers, facilitating coordination of relief efforts.
 
+![image](https://github.com/user-attachments/assets/67154cbe-eb81-44ba-921e-0ccf2f117afc)
+
+
 
 ### 3.2. Low VSWR Antennas
 A low Voltage Standing Wave Ratio (VSWR) indicates efficient power transmission with minimal reflections, crucial for reliable communication.
+
+![image](https://github.com/user-attachments/assets/bb852585-3350-4b86-bc68-be1477330571)
+
 
 ### Formula:
 ![image](https://github.com/user-attachments/assets/53779595-a8a7-4352-90bc-db8e5f38336c)
@@ -65,6 +75,8 @@ In Chennai, mesh networks were established using portable routers to provide int
 ### 3.4. Software Defined Radios (SDRs)
 
 SDRs are radios where components traditionally implemented in hardware are instead implemented by means of software, offering flexibility and adaptability.
+![image](https://github.com/user-attachments/assets/0fc9ef54-092d-4940-b7e5-11301d025f2f)
+
 
 ## Advantages:
 
