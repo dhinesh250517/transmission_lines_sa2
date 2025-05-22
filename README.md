@@ -6,7 +6,8 @@
 ## 1. Introduction
 In the wake of natural calamities like the 2024 Sikkim Earthquake and the 2023 Chennai Floods, communication infrastructures often collapse, leaving affected regions isolated. Rapid restoration of communication is paramount for coordinating rescue operations, disseminating information, and ensuring public safety. This report delves into the deployment of Satellite Uplink Systems, Low VSWR Antennas, Mesh Networks, and Software Defined Radios (SDRs) in re-establishing communication during such crises.
 
-![image](https://github.com/user-attachments/assets/00607c7f-9a70-42b3-a502-a949fd4a671f)
+![image](https://github.com/user-attachments/assets/9f049fff-e91b-44e9-a96d-907f125c6f77)
+
 
 
 ## 2. Case Study: 2024 Sikkim Earthquake
