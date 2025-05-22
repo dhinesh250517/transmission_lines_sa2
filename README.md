@@ -1,15 +1,12 @@
 # Operation Lifeline: Restoring Communication Amidst Disasters
 
-![image](https://github.com/user-attachments/assets/00607c7f-9a70-42b3-a502-a949fd4a671f)
-
 
 
 
 ## 1. Introduction
 In the wake of natural calamities like the 2024 Sikkim Earthquake and the 2023 Chennai Floods, communication infrastructures often collapse, leaving affected regions isolated. Rapid restoration of communication is paramount for coordinating rescue operations, disseminating information, and ensuring public safety. This report delves into the deployment of Satellite Uplink Systems, Low VSWR Antennas, Mesh Networks, and Software Defined Radios (SDRs) in re-establishing communication during such crises.
 
-<img src="![image](https://github.com/user-attachments/assets/8529f031-80cb-4288-9a8d-85d3de9713ac)
-" alt="Sikkim Earthquake" width="250"/>
+<img src="![image](https://github.com/user-attachments/assets/8529f031-80cb-4288-9a8d-85d3de9713ac)" alt="Sikkim Earthquake" width="250"/>
 
 
 ## 2. Case Study: 2024 Sikkim Earthquake
